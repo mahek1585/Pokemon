@@ -2,8 +2,8 @@
 // Components
 // import PokemonList from "./Pokemon/components/PokemonList";
  import PokemonViewer from "./Pokemon/components/PokemonViewer";
-import SearchInput from "./Pokemon/Components/SearchInput";
-import PokemonList from "./Pokemon/Components/PokemonList/Index";
+import SearchInput from "./Pokemon/components/SearchInput";
+import PokemonList from "./Pokemon/components/PokemonList/Index";
 import usePokeHook from "./Pokemon/hooks/UsePokeHook";
 
 const App = () => {
